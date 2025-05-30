@@ -1,3 +1,0 @@
-{"a": true} "x"
-
-// we explicitly support this to allow NDJSON like behavior at root
